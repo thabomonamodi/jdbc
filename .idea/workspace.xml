@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41369815-1f4a-4aba-bbe9-e4b1c860e7ea" name="Default Changelist" comment="" />
+    <list default="true" id="41369815-1f4a-4aba-bbe9-e4b1c860e7ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JDBCConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDBCConnect.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bC46mWszn4jsSoMsn3PdOhUmfS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,11 +40,12 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -145,10 +155,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588585656491" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1588130803164">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1588709189512">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1588130803164" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1588709189512" />
     <state x="387" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588129488835">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
